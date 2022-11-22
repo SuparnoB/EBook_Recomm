@@ -8,3 +8,5 @@ Does any relationship lie between ratings and the total ratings given?
 3. Or do they just fizzle out. Do number of pages make an impact on reading styles, ratings and popularity? 
 4. Can books be recommended based on ratings? Is that a factor which can work?
 
+using KMeans and KNN
+
